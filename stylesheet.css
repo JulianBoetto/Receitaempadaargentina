@@ -1,18 +1,70 @@
+:root {
+    font-family: 'Anton', sans-serif;
+}
+
 h1 {
     color: #FFB300;
     font-size: 89px;
     line-height: 90px;
-    font-family: 'Anton', sans-serif;
     letter-spacing: 2px;
 }
 
-#acceso {
+h3 {
     color: black;
     font-size: 21px;
     font-weight: bold;
-    font-family: 'Anton', sans-serif;
+}
+
+#accopcion {
+    color: #0037B3;
+    font-size: 21px;
+    font-weight: lighter;
+
+}
+
+#descripção {
+    color: #FFB300;
+    font-size: 34px;
+    font-weight: bold;
 }
 
 #sobre {
     font-size: 21px;
+    font-weight: bold;
+}
+
+#ingredientes {
+    color: #FFB300;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+#fazer {
+    color: #FFB300;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+ul {
+    color: black;
+    font-size: 21px;
+    font-weight: normal;
+    line-height: 21px*1.61;
+}
+
+ol {
+    color: black;
+    font-size: 21px;
+    font-weight: normal;
+    line-height: 21px*1.61;
+}
+
+iframe {
+    width: 883px;
+    height: 497px;
+}
+
+img {
+    width: 883px;
+    height: 374px;
 }
